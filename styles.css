@@ -1,0 +1,62 @@
+* {
+    margin: 70;
+    padding: 60;
+    
+    }
+.example, .one,.two, .three, .exbody, .xxx, .yyy {
+    border: 1px solid rgb(204, 199, 199);
+    box-sizing: border-box;
+    text-align: left;
+}
+tbody, table, tr, td, th {
+    border: 2px solid rgb(204, 199, 199);
+    box-sizing: border-box;
+    text-align: left; 
+}
+body {
+    font-family: 'DM Serif Display', serif;
+    background-color: #2F4F4F;
+    color: #FFE4B5;
+    overflow: scroll;
+    line-height: 1.4;
+    
+}
+.contact {
+        font-family: 'DM Serif Display', serif;
+        background-color: #2F4F4F;
+        color: #FFE4B5;
+}
+
+.white {
+    color: #7B68EE;
+    font-size: 15px;
+    font-family: 'DM Serif Display', serif;
+}
+.MediumAquaMarine {
+    color:#252525;
+    background-color: #66CDAA;
+}
+.header, .ph1 {
+    font-size: 105;
+}
+.sheet {
+    text-transform: uppercase;
+    text-decoration-line: underline;
+}
+.sheet, .center, .header {
+    text-align: center;
+    color: #ffcc99;
+}
+a:hover {
+    color: #339966;
+    background-color: #f7d4a8;
+       }
+
+ .radius {
+    border-radius: 20%;
+ }     
+
+ .under {
+    text-decoration-line: underline;
+    color: #7B68EE;
+ }
